@@ -49,7 +49,7 @@
   "devDependencies": {
     "ajv": "^8.6.1",
     "ajv-formats": "^2.1.0",
-    "husky": "^4.2.5",
+    "husky": "^5.0.0",
     "tsdx": "^0.14.1",
     "tslib": "^2.0.0",
     "typescript": "^4.3.5"
